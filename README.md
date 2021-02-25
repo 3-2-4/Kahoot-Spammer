@@ -1,7 +1,7 @@
 # [CLICK HERE TO FORK](https://repl.it/github/Jeydin21/Kahoot-Spammer)
 Need a distraction? Is your teacher hosting a Kahoot? Well, there's certainly nothing better to do than...FLOOD THE KAHOOT WITH BOTS!!!
 
-Well, you can actually do it, for free! No more ened to use those CPU depriving Kahoot spammers you find on Google, this bot can send hundreds of bots into a single Kahoot game, and they can actually answer the questions and get them right!
+Well, you can actually do it, for free! No more need to use those CPU depriving Kahoot spammers you find on Google that can only send a limited amount of bots for the price of a few dollars, no this bot can send hundreds of bots into a single Kahoot game, and they can actually answer the questions and get them right!
 
 Start by forking this repository. The best option is to host it from [repl.it](https://repl.it), as if you run it on your local host, your computer might suffer some damage as sending hundreds of bots into a Kahoot game kinda takes up a lot of RAM...
 
